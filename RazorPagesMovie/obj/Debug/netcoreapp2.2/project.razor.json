@@ -2976,6 +2976,31 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "PagesMovies\\Delete.cshtml",
+      "TargetPath": "PagesMovies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "PagesMovies\\Create.cshtml",
+      "TargetPath": "PagesMovies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "PagesMovies\\Index.cshtml",
+      "TargetPath": "PagesMovies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "PagesMovies\\Edit.cshtml",
+      "TargetPath": "PagesMovies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "PagesMovies\\Details.cshtml",
+      "TargetPath": "PagesMovies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
