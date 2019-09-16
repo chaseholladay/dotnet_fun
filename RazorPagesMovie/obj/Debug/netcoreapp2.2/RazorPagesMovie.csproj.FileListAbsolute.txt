@@ -28,3 +28,8 @@ C:\Users\chase\Documents\codingBootcamp\01-independent_apps\dotnet_fun\RazorPage
 C:\Users\chase\Documents\codingBootcamp\01-independent_apps\dotnet_fun\RazorPagesMovie\obj\Debug\netcoreapp2.2\RazorPagesMovie.dll
 C:\Users\chase\Documents\codingBootcamp\01-independent_apps\dotnet_fun\RazorPagesMovie\obj\Debug\netcoreapp2.2\RazorPagesMovie.pdb
 C:\Users\chase\Documents\codingBootcamp\01-independent_apps\dotnet_fun\RazorPagesMovie\obj\Debug\netcoreapp2.2\RazorPagesMovie.csproj.CopyComplete
+C:\Users\chase\Documents\codingBootcamp\01-independent_apps\dotnet_fun\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\PagesMovies\Create.g.cshtml.cs
+C:\Users\chase\Documents\codingBootcamp\01-independent_apps\dotnet_fun\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\PagesMovies\Delete.g.cshtml.cs
+C:\Users\chase\Documents\codingBootcamp\01-independent_apps\dotnet_fun\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\PagesMovies\Details.g.cshtml.cs
+C:\Users\chase\Documents\codingBootcamp\01-independent_apps\dotnet_fun\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\PagesMovies\Edit.g.cshtml.cs
+C:\Users\chase\Documents\codingBootcamp\01-independent_apps\dotnet_fun\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\PagesMovies\Index.g.cshtml.cs
